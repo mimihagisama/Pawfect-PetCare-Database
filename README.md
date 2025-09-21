@@ -310,7 +310,7 @@ erDiagram
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/pawfect-pet-care-database.git
+   git clone https://github.com/mimihagisama/pawfect-pet-care-database.git
    cd pawfect-pet-care-database
    ```
 
